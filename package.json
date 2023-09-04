@@ -1,0 +1,23 @@
+{
+    "name": "jest-unit",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/titangro/jest-unit.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/titangro/jest-unit/issues"
+    },
+    "homepage": "https://github.com/titangro/jest-unit#readme",
+    "devDependencies": {
+        "jest": "^29.6.4"
+    }
+}
